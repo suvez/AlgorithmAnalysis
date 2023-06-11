@@ -12,4 +12,9 @@ With the help of the binary search algorithm, the program efficiently searches f
 A simple interface was created using tkinter.
 
 Have fun playing The Word Guessing Game and test your fruit word knowledge!
+
 ![I1](https://github.com/suvez/AlgorithmAnalysis/assets/74875838/a8725a47-f701-4e91-a52f-712cc01b353a)
+
+![image](https://github.com/suvez/AlgorithmAnalysis/assets/74875838/421b28ff-b43e-4402-9b11-f5b1bfd72aeb)
+
+![image](https://github.com/suvez/AlgorithmAnalysis/assets/74875838/77f56f61-79eb-47d8-b464-cad9f9cd16c3)
