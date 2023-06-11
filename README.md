@@ -17,4 +17,6 @@ Have fun playing The Word Guessing Game and test your fruit word knowledge!
 
 ![image](https://github.com/suvez/AlgorithmAnalysis/assets/74875838/421b28ff-b43e-4402-9b11-f5b1bfd72aeb)
 
+![image](https://github.com/suvez/AlgorithmAnalysis/assets/74875838/3ae9e07f-71c6-4ef9-89e8-3889e5145c12)
+
 ![image](https://github.com/suvez/AlgorithmAnalysis/assets/74875838/77f56f61-79eb-47d8-b464-cad9f9cd16c3)
